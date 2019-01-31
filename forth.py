@@ -10,8 +10,14 @@ for x in alist:
         else:
             aOddlist.append(x)
 
+
+
+
+
                         
 print("Even Numbers :",tuple(aEvenlist))
 print("Odd Numbers :",tuple(aOddlist))
 
 #testing git
+#
+lll
