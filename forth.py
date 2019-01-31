@@ -8,13 +8,8 @@ for x in alist:
         if int(x) % 2 == 0:
             aEvenlist.append(x)
         else:
-            aOddlist.append(x)
-
-
-
-
-
-                        
+           aOddlist.append(x)
+             
 print("Even Numbers :",tuple(aEvenlist))
 print("Odd Numbers :",tuple(aOddlist))
 
